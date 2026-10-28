@@ -1,16 +1,33 @@
 ## Hi there 👋
+# Hi there 👋, I'm Aishwarya!
 
-<!--
-**aishwaryabsuttra-collab/aishwaryabsuttra-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Com Final-Year Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🌱 I'm currently learning **Power BI** and improving my data analysis skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- 📊 **Microsoft Excel:** Advanced
+- 🗄️ **SQL:** Completed
+- 📈 **Power BI:** Currently Learning
+- 🔍 **Data Analysis:** Practice Projects
+
+### 🚀 What I'm Working On
+- Building practical data analysis projects.
+- Improving my SQL querying skills.
+- Learning to create interactive Power BI dashboards.
+- Developing my problem-solving and analytical skills.
+
+### 🎯 My Goals
+- Become a skilled Data Analyst.
+- Work on real-world datasets.
+- Build a strong portfolio of data analytics projects.
+
+### 🤝 Connect With Me
+- 📍 Gulbarga, Karnataka, India
+- 💼 GitHub: [Visit My GitHub Profile](https://github.com/aishwaryabsuttra-collab)
+
+---
+
+⭐ *Thanks for visiting my profile! I'm always ready to learn, grow, and explore new opportunities in data analytics.*
+
+
